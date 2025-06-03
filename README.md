@@ -1,1 +1,1 @@
-# studenteda.py
+# student-eda
